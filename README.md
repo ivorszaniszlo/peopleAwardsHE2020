@@ -12,7 +12,7 @@ People Awards is a very important company event in our international media group
 
 ## Screenhots
 
-![PA2020HE screenshot](./images/peopleawards2020HE_screenshoot.jpg)
+![PA2020HE screenshot](./img/peopleawards2020HE_screenshot.jpg)
 
 ## Technolgies
 
