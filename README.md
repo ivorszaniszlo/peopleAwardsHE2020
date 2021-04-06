@@ -1,6 +1,4 @@
-# Title
-
-People Awards 2020 Home Edition
+# People Awards 2020 Home Edition
 
 ## Introduction
 
